@@ -1,2 +1,2 @@
 # Estrutura-de-dados
-Algoritmos e estrutura de dados em linguagem C
+Aqui você encontrará exemplos de implementações de Algoritmos e Estrutura de Dados em Linguagem C das disciplinas ministradas por mim.
